@@ -1,5 +1,5 @@
 # LLM_uncensored
-collection of uncensored LLMs for good use.
+collection of uncensored and unwoked LLMs for good use on 11GB VRAM (nvidia 2080ti).
 
 
 solar-10.7b-instruct-v1.0-uncensored.Q5_K_M.gguf <br>
